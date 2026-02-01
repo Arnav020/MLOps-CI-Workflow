@@ -36,7 +36,7 @@ CI solves several critical problems in software development:
 
 ### Problems CI Addresses:
 
-1. **Coding Standards (Linting)** - Ensures consistent code style
+1. **Coding Standards (Linting)** - Ensures consistent code style.
 2. **Integration Issues** - Catches conflicts early when multiple developers work on the same codebase
 3. **Interpreter Issues** - Detects compatibility problems across different environments
 4. **Add/Remove Features** - Validates that new features don't break existing functionality
